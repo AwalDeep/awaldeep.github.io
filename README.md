@@ -1,2 +1,2 @@
-# nikhil.github.io
+# awaldeep.github.io
 Data Science Portfolio
